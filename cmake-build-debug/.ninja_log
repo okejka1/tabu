@@ -1,0 +1,10 @@
+# ninja log v5
+2	286	7244368980005130	build.ninja	3b5123745653f5dd
+1	1251	7244368553839327	CMakeFiles/tabu.dir/main.cpp.obj	a4696b0de49bc709
+36	833	7244369009707208	CMakeFiles/tabu.dir/structures/Move.cpp.obj	589c6d9026da4680
+94	1067	7244369012035783	CMakeFiles/tabu.dir/utils/Timer.cpp.obj	edc2a8af65d0b2c0
+64	1578	7244369017152621	CMakeFiles/tabu.dir/structures/TabuList.cpp.obj	a0b4b08b92118537
+4	1790	7244369019271312	CMakeFiles/tabu.dir/structures/Graph.cpp.obj	50d562754ab0ca38
+51	2091	7244369022279475	CMakeFiles/tabu.dir/algorithm/TabuSearch.cpp.obj	f2c37824a999ed7c
+79	2324	7244369024628033	CMakeFiles/tabu.dir/algorithm/Solution.cpp.obj	ce336e0c604c95d0
+2325	2646	7244369027798383	tabu.exe	f65cf27fc1e23139
